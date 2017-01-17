@@ -10,7 +10,9 @@ body{
 
 /* Calculator Box */
 .box {
-	background-color: #08DCFF;	
+	background-image: url(EpicImages/download.jpeg);
+	background-size: 100%;
+	position: relative;
 	height: 340px;
 	width: 220px;
 	border-radius: 10px;
